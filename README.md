@@ -20,6 +20,5 @@ If your development environment differs from ours, no worries! The toolkit is hi
 
 To get started, simply clone this repository and follow the documentation provided. We've made it easy for you to enhance the reproducibility of your data analysis projects. Happy coding!
 
-![Reproducibility](link-to-image.png)
 
 If you have any questions or need assistance, feel free to reach out to our community. We're here to help you achieve reproducibility in your work.
